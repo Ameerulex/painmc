@@ -13,12 +13,12 @@
     <nav class="bg-purple-900">
         <div class="container px-8 mx-auto">
             <div class="py-4 flex justify-between">
-                <div class="flex space-x-40">
-                    <div class="text-4xl font-Yanone">
+                <div class="text-4xl font-Yanone">
                         <a href="#" class="flex items-center">
                             <img class="h-12" src="../public/assets/img/logo.png">
                         </a>
-                    </div>
+                </div>
+                <div class="flex space-x-40">
                     <div class="flex items-center text-md text-gray-100 font-Nunito font-semibold space-x-14 self-center">
                         <a class="hover:text-purple-300 transition duration-700" href="#">
                             HOME
@@ -33,7 +33,7 @@
                 </div>
                 <div class="flex items-center space-x-12">
                     <a href="#">
-                        <button class="p-2 bg-yellow-300 rounded-3xl text-purple-900 font-nunito text-sm font-semibold hover:text-gray-50 transition duration-700">
+                        <button class="p-2 bg-yellow-300 rounded-3xl text-purple-900 font-nunito text-sm font-semibold hover:bg-opacity-75  hover:text-gray-50 transition duration-700">
                             REGISTER
                         </button>
                     </a>
